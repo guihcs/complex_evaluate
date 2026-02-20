@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors: []
+title: On Evaluation Metrics for Complex Matching Based on Reference Alignments
+version: 1.0.0
+url: https://doi.org/10.1007/978-3-031-94575-5\_5
+doi: 10.1007/978-3-031-94575-5\_5
+date-released: '2025-02-20'
+preferred-citation:
+  authors: []
+  title: On Evaluation Metrics for Complex Matching Based on Reference Alignments
+  doi: 10.1007/978-3-031-94575-5\_5
+  url: https://doi.org/10.1007/978-3-031-94575-5\_5
+  type: conference-paper
+  pages: 77--93
+  year: '2025'
+  collection-title: "The Semantic Web - 22nd European Semantic Web Conference, ESWC 2025,\r\n                  Portoroz, Slovenia, June 1-5, 2025, Proceedings, Part I"
+  conference:
+    name: Lecture Notes in Computer Science
+  publisher:
+    name: Springer

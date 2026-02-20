@@ -1,0 +1,17 @@
+[build-system]
+requires = ["uv_build >= 0.9.11, <0.10.0"]
+build-backend = "uv_build"
+
+[project]
+name = "complex_evaluate"
+version = "0.0.1"
+authors = [
+  { name="Guilherme Henrique", email="guihss.cs@gmail.com" },
+]
+description = "Package to evaluate complex alignments."
+readme = "README.md"
+requires-python = ">=3.9"
+
+[project.urls]
+Homepage = "https://github.com/guihcs/complex_evaluate"
+Issues = "https://github.com/guihcs/complex_evaluate/issues"

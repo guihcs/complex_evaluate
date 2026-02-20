@@ -1,0 +1,15 @@
+site_name: Complex Evaluate
+site_description: Documentation for evaluating complex EDOAL alignments.
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+  icon:
+    logo: material/chart-bar
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - API Reference: api.md
